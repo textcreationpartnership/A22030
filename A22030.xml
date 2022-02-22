@@ -1,0 +1,1026 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking glasse for England VVherein those enormities and foule abuses may most euidentlie be seene, which are the destruction and ouerthrow of euery Christian common-wealth. Likewise, the onely meanes howe to preuent such daungers: by imitating the wholsome aduertisements contayned in thys booke. VVhich sometime was the iewell and delight of the right honourable Lorde and father to his countrey, Fraunces Earle of Bedforde, deceassed.</title>
+            <title>De duodecim abusivis. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1590</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22030</idno>
+            <idno type="STC">STC 84.5</idno>
+            <idno type="STC">ESTC S118999</idno>
+            <idno type="EEBO-CITATION">99854206</idno>
+            <idno type="PROQUEST">99854206</idno>
+            <idno type="VID">19615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19615)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 454:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking glasse for England VVherein those enormities and foule abuses may most euidentlie be seene, which are the destruction and ouerthrow of euery Christian common-wealth. Likewise, the onely meanes howe to preuent such daungers: by imitating the wholsome aduertisements contayned in thys booke. VVhich sometime was the iewell and delight of the right honourable Lorde and father to his countrey, Fraunces Earle of Bedforde, deceassed.</title>
+                  <title>De duodecim abusivis. English.</title>
+                  <author>Lesse, Nicholas.</author>
+                  <author>Augustine, Saint, Bishop of Hippo, attributed name.</author>
+                  <author>Cyprian, Saint, Bishop of Carthage, attributed name.</author>
+               </titleStmt>
+               <extent>[52] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn C[harlewood] for Henry Car, and Thomas Butter,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>Anno. Dom. 1590.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Erroneously attributed to Augustine and also to Saint Cyprian.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>A translation, by Nicholas Lesse, of: De duodecim abusivis.</note>
+                  <note>Another edition of: The twelfe steppes of abuses.</note>
+                  <note>Signatures: pi⁴ A-B C⁶.</note>
+                  <note>Formerly STC 6155.</note>
+                  <note>Identified as STC 6155 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vice --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19615:1"/>
+            <pb facs="tcp:19615:1" rendition="simple:additions"/>
+            <p>A Looking Glaſſe for <hi>Englande.</hi> VVherein thoſe
+enormities and foule a<g ref="char:EOLhyphen"/>buſes may moſt euidentlie be ſeene, which are the
+deſtruction and ouerthrow of euery Chri<g ref="char:EOLhyphen"/>ſtian Common-wealth. (⸪)
+Likewiſe, the onely meanes howe to preuent ſuch daungers: by imitating the
+wholſome aduertiſements contayned in thys Booke. <hi>VVhich ſometime was
+the Iewell and delight of the right honourable Lorde and father to his
+Countrey, Fraunces Earle of Bed<g ref="char:EOLhyphen"/>forde, deceaſſed.</hi>
+            </p>
+            <p>AT LONDON, Printed by Iohn C. for Henry Car, and Thomas Butter.
+<hi>Anno. Dom. 1590.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:19615:2"/>
+            <pb facs="tcp:19615:2"/>
+            <head>To the right Honourable Sir Thomas Henage, Knight, vize
+Chamberlaine to her excellent Maieſty, Treaſurer of her royall Chamber, and
+one of her highneſſe moſt honourable priuie Counſell: all happines in
+this life, and the fulneſſe of felicitie in the life to come, hartily
+wiſhed and prayed for.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Eedleſſe vvere it for me (right honoura<g ref="char:EOLhyphen"/>ble) to trouble your
+learned eares vvith any friuolous dyſ<g ref="char:EOLhyphen"/>courſe, concerning the manifolde
+vertues contained in this little Booke: becauſe the vvork ſuffici<g ref="char:EOLhyphen"/>ently 
+<pb facs="tcp:19615:3"/>declares it ſelfe, &amp; your iudg<g ref="char:EOLhyphen"/>ment exceedeth my ſimple
+demo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſtration. As for the noble man, vvho ſometime made account of this
+vvorthy Ievvell, and kept it (as hath beene knovvn) vvith no little care,
+declaring in his ovvn hono<g ref="char:EOLhyphen"/>rable courſe of life, the perfect imi<g ref="char:EOLhyphen"/>tation of
+ſo ſinguler precepts, as he vvas generally reputed a fatherlie freend to
+his Countrey, &amp; a bright shining ſtar in his Princes Courte: Let this
+chriſtall mirrour, vvherein may be ſeene the liuely shapes of vertue and
+vice (honourable Syr Thomas) bee patronized by you, for noble Fraunces Earle of
+Bed<g ref="char:EOLhyphen"/>fordes ſake, let this his dailie and<pb facs="tcp:19615:3"/>hourlie looking
+glaſſe, be the more welcome to you.</p>
+            <p>Manie are the copies in writing hereof, ſecretely deliuered
+abroade among both noble and other, who for the matter it ſelfe, and intire
+af<g ref="char:EOLhyphen"/>fection to the man while he liued, keepe them as the apple of theyr eye, and
+are fearefull to looſe ſuch excellent documcnts. Long did I trauaile to
+gette a copie of this fa<g ref="char:EOLhyphen"/>mous worke, yet all in vaine, tyll being ſent for to
+a deere freend of mine, that lay (vnder the fatherlie correction of God) vpo<g ref="char:cmbAbbrStroke">̄</g>
+his death bedde: and for he had nothing of greater eſteeme to leaue his
+friend (albeit he had the bleſsing of God<pb facs="tcp:19615:4"/>in ſome meaſure)
+gaue mee thys ſweete Booke, wherof I was more glad, than had he giuen mee
+vvhat terreſtrial affectio<g ref="char:cmbAbbrStroke">̄</g> to much coue<g ref="char:EOLhyphen"/>teth.</p>
+            <p>Beeing poſſeſſed of this noble Bedfordes Iewell, vvhoſe
+name I honour vvhile I liue, for many be<g ref="char:EOLhyphen"/>nefits receiued: I coulde not
+con<g ref="char:EOLhyphen"/>ceale it to my ſelfe, but shewing it to diuers my freendes, who dailie
+deſired copies thereof, as I my ſelf had doone, and finding my ſelfe
+vnable to furnish the deſire of ſo many: as well to ſatiſ-fie them, as
+other (vvho I know are in like ſort affected) I was perſwaded to make the
+ſame common by impreſsion,<pb facs="tcp:19615:4"/>and ſo haue doone to their no litle
+contentment.</p>
+            <p>And for your honours forvvard zeale to vertue, fauouring all
+ſuch as are true profeſſors therof, as alſo for defence of this Booke
+fro<g ref="char:cmbAbbrStroke">̄</g> wic<g ref="char:EOLhyphen"/>ked detractors: I make as humble preſent therof to your honor, that
+as you are in liuely follower of that vvoorthy Earle and Counſeller in life:
+ſo pray I, that your rewarde may be vvith him in the kingdom of Heauen.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:19615:5"/>
+            <pb facs="tcp:19615:5"/>
+            <head>A looking Glaſſe for Englande: VVherein thoſe blemiſhes
+and abu<g ref="char:EOLhyphen"/>ſes may be perfectly ſeene, which are the deſtruction and
+ouerthrowe of euery Chri<g ref="char:EOLhyphen"/>ſtian Common-wealth.</head>
+            <div n="1" type="chapter">
+               <head>The firſt abuſe. A wiſe man without works. Capit.
+1.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Mong thoſe ſeuerall mai<g ref="char:EOLhyphen"/>mes and blemiſhes in any
+eſtate whatſoeuer, the firſt that preſenteth it ſelfe, is a wiſe
+man or a Preacher without good works: that is to ſay, ſuch a one as dooth
+not worke according to his teaching, and to the wiſedome which hée
+deliuereth with his own tongue. For the hearers doo deſpiſe the good &amp;
+wholſome doctrine, if they perceiue that the works of the Preacher do differ
+from his teach<g ref="char:EOLhyphen"/>ing. And the authoritie of the Preacher ſhall neuer be good,
+except (by example of good life) hee faſten it in the hart of the<pb facs="tcp:19615:6"/>hearer: eſpecially when the Preacher himſelfe is fallen into the
+loue of ſin, and will not apply the wholſome ſalues of o<g ref="char:EOLhyphen"/>ther Preachers
+to his owne woundes. The Lorde therefore willing to inſtruct his Diſciples
+bothe in doctrine and good works, taught them how they ſhold take
+héede thereunto, ſaying. 
+<note place="margin">Math. 5.13.</note>
+                  <hi>If the ſalt be
+vn<g ref="char:EOLhyphen"/>ſauorie, wherein ſhall it be made ſauorie?</hi> that is to ſay, if
+the Preacher be out of the way, and doo not as hee ought to doo, what Preacher
+ſhal bring him in again? And if the light that is within thee is be<g ref="char:EOLhyphen"/>come
+darknes, how great then ſhall the darknes be it ſelf? If the eye haue
+loſt the vſe and offyce of ſight: what man can re<g ref="char:EOLhyphen"/>quire that ſame
+ſeruice of y<hi rend="sup">e</hi> hand or foote, or any other member of the body? Ther<g ref="char:EOLhyphen"/>fore let
+Preachers take héede, that they incur not a ſharper vengeance, if they
+be the greater occaſion to manie that they doo perriſh.</p>
+               <p>
+                  <note place="margin">Example of a wiſe man with<g ref="char:EOLhyphen"/>out
+workes.</note>For <hi>Salomon</hi> himſelfe, while hee did tranſgreſſe,
+and worke contrarie to his great wiſedome: was the cauſe, that by his
+ſalt onely, the kingdom of all the peo<g ref="char:EOLhyphen"/>ple of Iſraell was deuided.
+Wherefore<pb facs="tcp:19615:6"/>thoſe perſons to whom many things are committed, haue
+the greater loſſe if they beſtow not that wel, which they haue re<g ref="char:EOLhyphen"/>ceiued
+of their head and Gouernour: and therfore he that hath the greater charge,
+ſhall make the greater anſwere and rec<g ref="char:EOLhyphen"/>koning. For the ſeruaunt which
+know<g ref="char:EOLhyphen"/>eth the will of his Maiſter &amp; doth it not, ſhal ſuffer ſharpe
+ſcourges and bitter pu<g ref="char:EOLhyphen"/>niſhments.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>The ſecond abuſe. An olde man without deuotion and godlie
+feare. Cap. 2.</head>
+               <p>
+                  <note place="margin">The weaker and more olde a man is in his
+body, the youn<g ref="char:EOLhyphen"/>ger and more ſtrong ſhoulde hee be in his ſoule.</note>THe
+ſecond ſtaine and ſhamefull abuſe, is an olde man that hath no
+holineſſe in him: but when the members &amp; parts of his body be olde and
+féeble, the limmes of his minde, that is to ſay, of the inward man,
+are nothing the ſtronger. It is de<g ref="char:EOLhyphen"/>cent and comelie, that olde men ſhoulde
+giue themſelues to more perfect holines and deuotion, then other men, whom
+the floriſhing time of this world hath not as yet forſaken. The example may
+be ga<g ref="char:EOLhyphen"/>thered<pb facs="tcp:19615:7"/>in wood, that euen as the Trée is accounted
+naught and euill, which after it hath bloſſomed, bringeth forth no good
+fruite: ſo among men, he is a wicked and euill perſon, who when the flower
+of his youth is paſt, doth not in the olde time of his body, bring foorth
+ripe works of good fruites. For what thing can be more ri<g ref="char:EOLhyphen"/>diculous, then a mans
+mind not to ende<g ref="char:EOLhyphen"/>uour to attaine ſtrength and perfection, when all the parts
+of his bodie (by age) are come to defection and ende? When his eyes were dimme,
+his eares harde of hearing, his heade balde, his cheekes wi<g ref="char:EOLhyphen"/>thered through
+lacke of bloode: when he beginneth to want his teeth, to haue his breath
+ſtrong and earthlie, his breaſt ſtuffed with phlegme, euermore troub<g ref="char:EOLhyphen"/>led
+with the cough: and finally, whe<g ref="char:cmbAbbrStroke">̄</g> his legs doo faile vnder him as he goeth, by
+age, and ſwelling with diſeaſes: the in<g ref="char:EOLhyphen"/>ward man that féeleth no
+age, beeing alſo pained with the ſelfe ſame diſeaſes. And all theſe
+ſickeneſſes and infirmities reher<g ref="char:EOLhyphen"/>ſed, are ſignes and tokens before,
+that the houſe of this bodie ſhal ſhortlie decay.</p>
+               <p>What haue we to doo then, while the<pb facs="tcp:19615:7"/>ende of this life
+draweth ſo faſt on? but that ſuch as are olde, ſhoulde deſire to
+co<g ref="char:EOLhyphen"/>uet nothing els, then howe they might ſooneſt obtaine the felicitie of
+the life to come. 
+<note place="margin">Although the time of death be vncertaine to al
+men, yet it is moſt naturall to olde men.</note>For to young men, the end of
+their life is alway at hand and vncertaine, but vnto olde men it is more ripe
+&amp; naturall, as alſo agreeable to their age.</p>
+               <p>
+                  <note place="margin">Two things in a man neuer wexe
+olde.</note>Wherefore a man muſt take heede of two things, which neuer doo
+were olde in his fleſh, and doo drawe the whole man vnto ſinne: that is to
+ſay, the heart and the tongue. For the hart is alway ima<g ref="char:EOLhyphen"/>gining of new
+thoughts, and the tongue is euermore ſwifte in ſpeaking whatſoe<g ref="char:EOLhyphen"/>uer the
+hart doth imagine or thinke.</p>
+               <p>Let olde men therefore beware, that theſe young members doo
+not bring the whole harmonie of their bodies out of tune: cauſing the other
+parts of the body (which doo ſhew grauitie) to be laughed to ſcorne. For
+euery man ought to take heede, what becommeth the age which he beareth, that he
+may doo thoſe things which ſhall cauſe, that neither his life, age nor
+behauiour may be touched with deſpiſing.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:19615:8"/>
+               <head>The third abuſe. A young man without obe<g ref="char:EOLhyphen"/>dience. Cap.
+3.</head>
+               <p>
+                  <note place="margin">Diſobedience is the diſorder of al the
+world.</note>HEere muſt wee intreat on the thirde eye ſore, namely: if a
+young man be founde without obedience, whereby the world is brought out of good
+order. For how dooth he think to be reuerenced whe<g ref="char:cmbAbbrStroke">̄</g> he commeth to age, that in
+his youth wil ſhew no obedience or reuerence to them which are olde? And
+therfore it is a com<g ref="char:EOLhyphen"/>mon ſaying among olde men, that he can neuer play the
+Maiſter well, who hath not one way or other declared himſelfe ſeruiceable
+and obedient to ſome other before.</p>
+               <p>
+                  <note place="margin">Example of our Sauiour Chriſt his
+obedience.</note>For the which cauſe, our Lorde Ieſus Chriſt, in the time
+of his béeing vpon the earth in his fleſh, til the lawfull time and
+age of a teacher, that hée ſhould teach: did ſerue and miniſter
+obediently to his Pa<g ref="char:EOLhyphen"/>rents. Likewiſe then, as grauitie, ſadnes, and perfect
+godly manners, are looked for and beheld in olde men, ſo to young men 
+<pb facs="tcp:19615:8"/>belongeth (of right) humble ſeruice, ſub<g ref="char:EOLhyphen"/>iection and
+obedience.</p>
+               <p>Wherfore in thoſe precepts and com<g ref="char:EOLhyphen"/>maundements of the Law,
+which apper<g ref="char:EOLhyphen"/>taine to the loue of our neighbor, the firſt is the honor of
+Father and Mother, bee<g ref="char:EOLhyphen"/>ing commaunded vnto vs: that although the carnall father
+be not aliue, or is vn<g ref="char:EOLhyphen"/>worthy, yet y<hi rend="sup">u</hi> muſt to ſome other which is aliue,
+ſhew obedience and giue honor, till ſuch time thou co<g ref="char:cmbAbbrStroke">̄</g>meſt to an age,
+wor<g ref="char:EOLhyphen"/>thie to be honoured thy ſelfe. 
+<note place="margin">The vocable father is taken foure manner of
+wayes.</note>For this word Father, is taken foure manner of waies in the
+Scripture, that is to ſay, by nature: by the nation or people: for
+cou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſell: and for age. Of the naturall father, <hi>Iacob</hi> ſpeaketh to
+<hi>Laban,</hi> ſaying. 
+<note place="margin">Gene. 31.42.</note>
+                  <hi>If the feare of my
+father Iſaack had not beene heere, thou wouldeſt haue taken all that I
+haue.</hi> Of the father of the people, it is ſaid, when the Lord ſpake to
+<hi>Moſes</hi> out of the buſh. 
+<note place="margin">Deut. 32.</note>
+                  <hi>I am the God of thy
+Fathers, the God of Abraham, the God of Iſaack, the God of Iacob.</hi> Of the
+father for age and counſell, it is likewiſe written. 
+<note place="margin">Deut. 10.12.</note>
+                  <hi>Aske the father and hee
+ſhall tell thee, and the Elders, and they ſhall ſhew vnto thee.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:19615:9"/>Wherefore, if thy naturall Father bée dead,
+and ſo not worthy to be obeyed, if anie other olde man doo giue thee good
+counſell, thou muſt ſhew the obedience of a young man vnto him. For how
+ſhal hée be honoured in his olde age, which refu<g ref="char:EOLhyphen"/>ſed to folow the
+good leſſons of obedience, when hee was a young man himſelfe?
+Whatſoeuer a man doth labour, that ſhal he reape and gather. In like
+manner, all diſcipline (at the firſt) ſeemeth to be vn<g ref="char:EOLhyphen"/>pleaſant and
+painfull: but afterward it ſhall giue to them that haue exerciſed
+themſelues therin, the moſt pleaſant and quiet fruite of right and
+iuſtice. For like as there is no fruite found on that Tree, which firſt did
+beare no bloſſoms: ſo in age, that man ſhall neuer haue the due honor
+to age, who in his youth hath not firſt béene exerciſed with ſome
+diſcipline. And which way can diſcipline be with<g ref="char:EOLhyphen"/>out obedience?</p>
+               <p>
+                  <note place="margin">Obedience is the mother of
+diſcipline.</note>It followeth then, that a young man without obedience, is a
+young man with<g ref="char:EOLunhyphen"/>out diſcipline: for obedience is the mo<g ref="char:EOLhyphen"/>ther of all
+diſcipline. It requireth great exerciſe: example and rule whereof, it 
+<pb facs="tcp:19615:9"/>hath taken by our Lord Ieſu Chriſt, 
+<note place="margin">Example of o<g ref="char:EOLhyphen"/>bedience.</note>who being
+obedient vnto his father, yea to the death, and that to the death of the
+croſſe, tooke vppon him gladlie ignominie and rebuke.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>The fourth abuſe. A rich man without charitie. Capit.
+4.</head>
+               <p>NExt enſueth the fourth argument of euill, which is a rich man
+deſtitute of almes deedes or charitie: ſuch a one as doth hide and lay vp
+til the time to come, more then is ſufficient for him, diſtribu<g ref="char:EOLhyphen"/>ting
+nothing to the poore and needie, and ſo while he vſeth ſo great
+dilligence, in keeping the goods gathered on the earth, hee leeſeth the
+treaſure which is euerla<g ref="char:EOLhyphen"/>ſting of the heauenly Country. Whereto our Lorde
+Ieſus called the rich young man, who demaunded of him the way to perfection,
+ſaying to him. 
+<note place="margin">Math. 19.21.</note>
+                  <hi>If thou wilt be
+perfect, goe and ſell all that thou haſt, and giue it to the poore, and
+come and follow me, &amp; thou ſhalt haue treaſure in heauen.</hi> 
+                  <pb facs="tcp:19615:10"/>Which no man euer can haue, except hée comfort the
+poore.</p>
+               <p>Let not him therefore ſleepe vpon his riches, which may doo
+good vnto y<hi rend="sup">e</hi> poore, for although a rich man haue gathered together great
+ſtore of goods, 
+<note place="margin">The nature of man is ſuſtai<g ref="char:EOLhyphen"/>ned with
+ſmall thinges.</note>yet can hee not enioy them all alone, in reſpect the
+nature of man is ſuſtained with few and ſmall thinges. Then what greater
+follie can there be in the worlde, then for the exceſſiue féeding
+&amp; clothing of one man: to looſe all the pleaſures of the kingdome of
+heauen, and ſo to purchaſe the euerla<g ref="char:EOLhyphen"/>ſting pains of hell, without hope
+of anie comfort or helpe?</p>
+               <p>That thing therefore which of neceſſi<g ref="char:EOLhyphen"/>tie thou muſt once
+forſake, in hope to bée rewarded againe euerlaſtinglie, doo thou
+diſtribute willingly and cheerefully. For all thinges which wee beholde with
+our eyes, are temporall, but thoſe which wée ſée not, are
+eternall and euerlaſting. For ſo long as we are temporall, thinges of like
+qualitie doo vs ſeruice, but when wée depart from this earthly abode,
+euerla<g ref="char:EOLhyphen"/>ſting ioy ſhall attend vpon vs, and felici<g ref="char:EOLhyphen"/>tie without limit or
+ending.</p>
+               <p>
+                  <pb facs="tcp:19615:10"/>What reaſon haue wee to loue thoſe thinges
+which wee cannot alwaie haue with vs? when we euidently behold, that the landes
+and ſubſtaunce of a rich man, doo declare him to be without witte and
+iudgment, becauſe he loueth thoſe things with the deſire of his whole
+hart, which neuer doo render him loue againe. For if a man loue gold, ſiluer,
+lands, dainty fare, fine meates, and brute beaſtes, the natu<g ref="char:EOLhyphen"/>rall courſe of
+things doo teache vs, that none of theſe can yeeld him loue againe. What
+thing is then further from al rea<g ref="char:EOLhyphen"/>ſon, then to loue that which cannot loue
+thee againe, and to neglect that, which giueth to thée all thinges with
+loue? For that cauſe, God commaunded vs to loue, not the worlde, but our
+neighbour, ſith that he can render loue againe for loue: which thing worldly
+goods cannot doo, it is well knowne. Euen ſo GOD com<g ref="char:EOLhyphen"/>maundeth vs to loue our
+enemy, that the ſame loue may make him of our enemie, our freende.</p>
+               <p>Let euery couetous rich man there<g ref="char:EOLhyphen"/>fore, who would haue
+euerlaſting riches, diſtribute (while he is heere) to the poore<pb facs="tcp:19615:11"/>and needie, thoſe riches which are but temporall, and doo not
+continue for euer. For if a man will not ſell y<hi rend="sup">e</hi> thing which he loueth, how
+can another man bye that thing which hee coueteth? 
+<note place="margin">Couetous men are called curſ<g ref="char:EOLhyphen"/>ſed of
+GOD.</note>and therefore the couetous men are called curſſed of the moſt
+righteous Iudge, becauſe they which paſt by them, did not ſay vnto the<g ref="char:cmbAbbrStroke">̄</g>:
+<hi>The bleſſing of God be vpon you, and we doe bleſſe you in the name
+of God.</hi> Ther<g ref="char:EOLunhyphen"/>fore the couetous men are curſed &amp; vn<g ref="char:EOLhyphen"/>happy: who for
+tranſitory goods doe goe to euerlaſting damnation.</p>
+               <p>But on the other ſide: 
+<note place="margin">Math. 5.7.</note>
+                  <hi>Bleſſed are the
+pittifull, for they ſhall finde mercie and pittie.</hi> 
+                  <note place="margin">In deedes of charitie, the wil is taken for
+the deede, where the power is not to ſhew the deede.</note>Happie is that man
+that is merci<g ref="char:EOLhyphen"/>full, for ſo much as God (in this vertue) doth not looke vppon
+the ſubſtaunce and riches: but vppon the affection and hart of man.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb facs="tcp:19615:11"/>
+               <head>The fift abuſe. A woman without ſhamefaſt<g ref="char:EOLhyphen"/>neſſe.
+Cap. 5.</head>
+               <p>PRoceeding to the fift notorious kind of abuſe, I finde it to
+be a Woman with<g ref="char:EOLunhyphen"/>out modeſtie or ſhamefaſtnes. For euen as wiſedome doth
+bothe gette and keepe good manners in men, ſo in Women, ſhamefaſtnes
+dooth bring foorth, nouriſh and keepe, all honeſt and good works.</p>
+               <p>
+                  <note place="margin">The effects of
+ſhamefaſtnes.</note>Shamefaſtneſſe keepeth them chaſte and pure, it
+plucketh in warie reſpect of life, it refraineth from ſtrife and debate, it
+aſſwageth anger, it quencheth the de<g ref="char:EOLhyphen"/>ſire of the fleſh, it doth
+moderate the de<g ref="char:EOLhyphen"/>ſire of the minde, it chaſteneth wanton<g ref="char:EOLhyphen"/>nes, it baniſheth
+drunkennes, it maketh few words, it brideleth the greedie deſire of the gut,
+and vtterly condemneth theft, what more? It brideleth and tameth all vice, it
+nouriſheth all vertues, and what<g ref="char:EOLhyphen"/>ſoeuer is before God and man
+accepta<g ref="char:EOLhyphen"/>ble.</p>
+               <p>A life which is vnchaſte, is neither<pb facs="tcp:19615:12"/>
+                  <note place="margin">The reward of immodeſtie.</note> praiſed of men in this world,
+nor rewar<g ref="char:EOLhyphen"/>ded of God in the world to come. 
+<note place="margin">The reward of a chaſte life.</note>But the
+contrarie, which is a chaſte life, is well ſpoken of among men, and
+reioyceth alſo in the hope of the bliſſe to come. It dooth winne the
+looue of men which are liuing and doo perceiue it, and to them which come
+after, if leaueth a goodly example of imitation, being a pleaſant and a
+god<g ref="char:EOLhyphen"/>lie memorie. It delighteth alway in good manners, and agreeth vnto them,
+euer<g ref="char:EOLhyphen"/>more refreſhing the ſoule with continu<g ref="char:EOLhyphen"/>all reading and meditation of
+the holie Scriptures. 
+<note place="margin">Like doth well agree with like.</note>And
+beſides this, it keepeth the examples of good which are gone, be<g ref="char:EOLhyphen"/>ing alway
+acquainted and ioyned in com<g ref="char:EOLhyphen"/>panie with them that are perfect and
+ho<g ref="char:EOLhyphen"/>neſt.</p>
+               <p>
+                  <note place="margin">By what to<g ref="char:EOLhyphen"/>kens a man ſhal perceiue the
+ver<g ref="char:EOLunhyphen"/>tue of ſhame<g ref="char:EOLhyphen"/>faſtnes in a woman.</note>The exerciſe of
+ſhamefaſtneſſe, con<g ref="char:EOLhyphen"/>ſiſteth in two things, that is to ſay, in the
+outward behauiour of the body, and the inward affection of the minde. In the
+bo<g ref="char:EOLhyphen"/>die, by giuing good examples before men, as the holy Apoſtle ſaith: and
+in y<hi rend="sup">e</hi> mind, before God wee doo prouide and beginne good works. 
+<note place="margin">The properties of ſhamefaſtnes</note>For
+the ſhamefaſtneſſe and chaſtitie of the body is, not to couet other 
+<pb facs="tcp:19615:12"/>mens goods, and to flie all vncleanneſſe: not to eate and
+drink but in time: not to be a gigler and a prouoker of other men to laughter:
+no ſpeaker and teller of falſe and vaine tales: to be ſoberly
+apparrel<g ref="char:EOLhyphen"/>led, all things beeing ſette in comely or<g ref="char:EOLhyphen"/>der, according to godlines
+in all parts of the bodie, as wel in the haire on the head as in the rayment.
+Not to company with the vngodlie, neither to looke proudlie or diſdainfully
+vppon any man, nor yet wantonlie to caſt vppe the eyes, to the e<g ref="char:EOLhyphen"/>uil
+prouocation of other: not to goe nice<g ref="char:EOLhyphen"/>ly and trypping in the ſtreete, hauing
+a pace like as it were in a game or a play, to be ſéene, and to tempt
+other therwith.</p>
+               <p>To be alſo inferior vnto no man in good workes, to be
+occaſion to no man of reproche or ſhame, to blaſpheme or ſlau<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>der no
+man: to hate none that is good, nor to ſcorne ſuch as are olde, not to
+med<g ref="char:EOLhyphen"/>dle with thoſe things which thou know<g ref="char:EOLhyphen"/>eſt not, nor to contend or
+ſtriue with thy better: and finally, not to blab abroade all thinges that
+thou knoweſt. Theſe things doo make a ma<g ref="char:cmbAbbrStroke">̄</g> loued of his neigh<g ref="char:EOLhyphen"/>bor, and
+acceptable in the ſight of God,</p>
+               <p>
+                  <pb facs="tcp:19615:13"/>
+                  <note place="margin">The chaſtitie of the ſoule,
+and the properties thereof.</note>The ſhamefaſtnes and chaſtitie of the
+ſoule, is to doo thoſe thinges which thou dooſt, more for the ſight of
+GOD, then to be ſéene of men: to ſtay the deſire of euill
+thoughts: to eſteeme euery man better then thy ſelfe: not to infect thy
+iudgment with falſe doctrine: to agree with them that are to the Catholique
+and vniuerſal faith: to cleaue only to God: to preſume nothing of thy
+ſelfe, but to commit al thy dooings to the help of God: to be alwaies humble
+in his ſight: to offer to our Lord Ieſus Chriſt, the chaſtitie of thy
+inward minde: neuer to make an end, or to ceaſe from good works during thy
+life: &amp; with a ſtrong hart to deſpiſe the preſent tribu<g ref="char:EOLhyphen"/>lations of
+thy minde: of things worldly, to loue nothing but thy neighbor: to ſet and
+lay vp the treaſure of all thy loue in heauen: and finallie, to be
+aſſured, that for thy well dooing, thou ſhalt not leeſe the reward in
+heauen.</p>
+               <p>
+                  <note place="margin">What eſpeciall benefits enſue by
+ſhamefaſt<g ref="char:EOLhyphen"/>neſſe.</note>Shamefaſtnes, is a goodlie ornament of noble
+perſons. It exalteth thoſe which be humble, making them noble. It is the
+beautie of the<g ref="char:cmbAbbrStroke">̄</g> that are féeble and weake: the proſperitie of them
+which be ſick, the<pb facs="tcp:19615:13"/>comfort of them that are in heauines, the
+increaſe of all beautie: the flowre of Re<g ref="char:EOLhyphen"/>ligion: the defence &amp; buckler
+againſt ſin: a multiplier of good deedes: and to bee ſhort, it is the
+onely paramour and dar<g ref="char:EOLhyphen"/>ling of God the creator of all.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>The ſixt abuſe. A Maiſter or a Ruler without vertue.
+Capit. 6.</head>
+               <p>
+                  <note place="margin">Vertue conſi<g ref="char:EOLhyphen"/>ſteth not in the outwarde,
+but inward ſtrength</note>IN this place followeth the ſixt abuſe,
+namelie: a Lorde or Maiſter that is without vertue. For it profiteth nothing
+to haue power and authoritie, or to rule, if the Maiſter haue not in
+himſelfe, the direct and orderlie ſway of vertue. But this vertue
+conſiſteth not ſo much in the externe and outwarde ſtrength of the
+bo<g ref="char:EOLhyphen"/>die, which is very requiſite and neceſſa<g ref="char:EOLhyphen"/>rie for ſuch as are worldly
+Rulers, as it is to be exerciſed in the inward ſtrength, in good and
+vertuous maners. For often times a man doth leeſe the might &amp; pow<g ref="char:EOLhyphen"/>er to
+rule, thorow the negligence of the inwarde part: as it appeared by <hi>Eli</hi>
+the<pb facs="tcp:19615:14"/>Prieſt, 
+<note place="margin">1. Kinges. 2 32. Ely was puni<g ref="char:EOLhyphen"/>ſhed for his
+chil<g ref="char:EOLhyphen"/>dren.</note>who while hée puniſhed not his children with the
+rigorous and ſtrait rod of iuſtice, when they did ſinne: God, (as one
+that wold be reuenged for their wic<g ref="char:EOLhyphen"/>kednes vpon him) ſharply puniſhed him,
+as one that conſented to their naughti<g ref="char:EOLhyphen"/>nes.</p>
+               <p>
+                  <note place="margin">Three neceſſary poynts for a
+Ruler.</note>Therefore it is neceſſarie, that Rulers haue theſe three
+things in them, that is to ſay: terror to be feared, good gouer<g ref="char:EOLhyphen"/>naunce, and
+loue. For except the Gouer<g ref="char:EOLhyphen"/>nour be feared and loued, his ordinaunce and rule
+cannot ſtand. 
+<note place="margin">Which way a Ruler muſt get the loue of his
+ſubiects.</note>Therfore thorow his goodnes and honeſt familiare
+conditi<g ref="char:EOLhyphen"/>ons, let him procure to gette the looue of them which are vnder him,
+and alſo by iuſt and diſcreete puniſhment. Not that he would or ſhold
+appeare to reuenge his owne quarrell or iniurie: but that the
+tranſgreſſion or breaking of the Lawe of God, might be puniſhed, and
+ſo to be had in feare.</p>
+               <p>Wherefore, while many perſons doe depend and hang vpon him,
+hee himſelfe muſt altogether depende and hang vpon God, and cleaue onely to
+him: who hath ſet him in that rule: who hath eſtabli<g ref="char:EOLhyphen"/>ſhed<pb facs="tcp:19615:14"/>him, and made him to be a ſtronger man, whereby to beare the burdens
+of many. 
+<note place="margin">Except the fou<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>dation be good, the building
+de<g ref="char:EOLhyphen"/>cayeth.</note>For except a beame be laide faſt and ſure, vpon a
+ſtronger thing which is able to beare it, all that is laide vppon it ſhall
+fall downe: yea &amp; it ſelfe alſo, tho<g ref="char:EOLhyphen"/>rowe the very bigneſſe and
+waight of it ſelfe, ſhall fall to the grounde with the burden thereof. So a
+Prince or Ruler, except he ſtick faſt to his maker, both he himſelfe, and
+all that is with him dooth quicklie perriſh.</p>
+               <p>
+                  <note place="margin">Promotions do chaunge con<g ref="char:EOLhyphen"/>ditions, either to
+the better or worſe.</note>There be ſome, who after they be ſet in
+authoritie, doo become better men, and doo cleaue more neere to God, then they
+did before: and ſome are contrariwiſe thereby made the wurſe.</p>
+               <p>
+                  <note place="margin">Example of Moyſes and Saule.</note>For
+<hi>Moſes</hi> after hee was made Go<g ref="char:EOLhyphen"/>uernour of the people, he had
+communi<g ref="char:EOLhyphen"/>cation with God more familiarly the<g ref="char:cmbAbbrStroke">̄</g> hée had before. But
+<hi>Saul</hi> the ſonne of <hi>Cys,</hi> after he was King, thorow his pride
+and diſobedience, highly ſinned and offended againſt God.</p>
+               <p>
+                  <note place="margin">Example of king Salomon and
+Ieroboam.</note>King <hi>Salomon,</hi> after he ſate in the ſeate of his
+Lorde and father King <hi>Dauid,</hi> God encreaſed &amp; made him rich with
+the gifte<pb facs="tcp:19615:15"/>of wiſedome, to gouerne ouer innumera<g ref="char:EOLhyphen"/>ble people. And
+contrariwiſe, after that <hi>Ieroboam</hi> the ſeruant of <hi>Salomon,</hi>
+had v<g ref="char:EOLhyphen"/>ſurped part of the kingdome of the houſe of <hi>Dauid,</hi> he turned
+tenne Tribes of the people of Iſraell, which were in the part of
+<hi>Samaria,</hi> from the true and right wor<g ref="char:EOLhyphen"/>ſhip of God, to the wicked and
+deuilliſh worſhipping of Idols.</p>
+               <p>
+                  <note place="margin">This hath been much ſeene in our
+dayes.</note>By which examples, it is apparant and manifeſt, that ſome men
+when they doo come to dignitie, doo growe more per<g ref="char:EOLhyphen"/>fect and better: and ſome
+againe, thorow pride of their aduauncement and ryſing vp, doo fall and were
+worſe. By both the which is to be vnderſtood, that they which increaſe in
+goodnes, doo it by the vertue and godly diſpoſition of the mind, eue<g ref="char:cmbAbbrStroke">̄</g> by
+the onely helpe of GOD: and the other, that they doo fall by the weakenes of
+the minde, thorow the negligence and ſmall regard they haue to vertue, which
+no ma<g ref="char:cmbAbbrStroke">̄</g> can haue without the helpe of GOD.</p>
+               <p>
+                  <note place="margin">Marke well this leſſon.</note>The man
+that hath many things vn<g ref="char:EOLhyphen"/>der him, whereof he hath charge, &amp; hath not the
+ſtrength and vertue of the mind, is no way able to fulfil or performe what 
+<pb facs="tcp:19615:15"/>he ſhould doo. For many things doo bring with the<g ref="char:cmbAbbrStroke">̄</g> many troubles
+and vexations.</p>
+               <p>
+                  <note place="margin">Truſt in the Lord, &amp; he ſhall
+nouriſh thee.</note>Therfore let euery man that is a Ru<g ref="char:EOLhyphen"/>ler, procure firſt
+with all induſtry of his minde, that in all things he may be ſure of the
+helpe of God. For if in his dooings hee haue the Lorde and gouernour of all
+Lords and Gouernours to his helper, no man can ſette light or deſpiſe his
+ordi<g ref="char:EOLhyphen"/>naunce &amp; rule, becauſe there is no power but of God. Hee lifteth vp
+the poore and needie out of the very dunghill, and ma<g ref="char:EOLhyphen"/>keth him to ſitte with
+the Princes of his people. Likewiſe hee caſteth downe the mightie from
+their ſeate, exalting them which are meeke and lowlie: that all the world
+might be obedient vnto God, and his glory onely exalted.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>The ſeauenth abuſe. A Chriſtian man full of brawling
+and contention. Capit. 7.</head>
+               <p>
+                  <hi>A</hi> Moſt yrkſome and pernicious thing is this
+ſeauenth abuſe, which nowe we haue in hande, to witte: a Chriſtian 
+<pb facs="tcp:19615:16"/>man full of contention, who by faith and baptiſme, being a
+partaker and a bearer of the name of Chriſt, dooth (againſt the ſayings
+and minde of Chriſt) delight in pleaſures of the world, which are
+tranſi<g ref="char:EOLhyphen"/>torie, and doo dailie fall alway. 
+<note place="margin">Whatſoeuer a man loueth, it is either for
+the loue of the thing it ſelfe loued: or for the loue of ſome other thing
+got there<g ref="char:EOLhyphen"/>by.</note>Becauſe all manner of thinges for which a man doth
+ſtriue, doe cauſe the ſame ſtrife, ey<g ref="char:EOLhyphen"/>ther for the looue that is borne
+to them, beeing a couetous deſire for himſelfe, or for the loue of ſome
+other thing, which li<g ref="char:EOLhyphen"/>eth, hid vnder an odious and hateful mat<g ref="char:EOLhyphen"/>ter.</p>
+               <p>As for example, warre, although it bée odious and an
+hateful thing, yet is it hol<g ref="char:EOLhyphen"/>den and maintained on both ſides with a bold and
+fierce courage, for the looue and deſire which men haue to winne the
+vic<g ref="char:EOLhyphen"/>tory, and for the purchaſing of liberty. In like manner, many other
+thinges are de<g ref="char:EOLhyphen"/>ſired and ſought after, with contention, who may haue them
+firſt before another: by no leſſe hatefull and painefull labour, yea and
+feare, then the other which are gotte by moſt deteſtable warre.</p>
+               <p>
+                  <note place="margin">The reward of contention, is the obteyninge
+of his purpoſe, for that he loued</note>And therefore a man may perceiue,
+there is no co<g ref="char:cmbAbbrStroke">̄</g>tention but for that which<pb facs="tcp:19615:16"/>is loued, that is to
+ſay, for a louing and a fréendly reward, which foloweth to their mind
+after it is ended. Whoſoeuer ther<g ref="char:EOLhyphen"/>fore ſtriueth for any manner of thing of
+this world, ſheweth euidently and plain<g ref="char:EOLhyphen"/>lie, that he loueth this world.</p>
+               <p>How then doth the holy Ghoſt by the mouth of Saint
+<hi>Iohn,</hi> forbid that this world ſhold be loued? to whom he ſaith. 
+<note place="margin">1 Iohn, 2.15.</note>
+                  <hi>Loue not the worlde,
+nor the thinges that be in the world.</hi> 
+                  <note place="margin">The loue of god and of y<hi rend="sup">e</hi> world, are alwayes
+ſe<g ref="char:EOLhyphen"/>parated.</note>For the loue of God, and the loue of the world, cannot
+dwell toge<g ref="char:EOLhyphen"/>ther in one hart: 
+<note place="margin">An apte ſimili<g ref="char:EOLhyphen"/>tude.</note>euen as the eyes
+of a man cannot behold the heauen aboue, and the earth beneath, both at once
+with one looke.</p>
+               <p>But let vs ſearch and ſee, whether there be in the world,
+any thing indeede that is to be loued, and what is y<hi rend="sup">e</hi> world which the ſpeech
+of God forbiddeth vs to loue. 
+<note place="margin">What we are commanded to loue in y<hi rend="sup">e</hi>
+earth.</note>We are not commaunded to looue the earth, nor the things which
+come out of the earth, but onely our neighbor, for whoſe ſake all thinges
+are made. Him thou art commaunded to loue: for all o<g ref="char:EOLhyphen"/>ther things which doo
+perriſh and fade a<g ref="char:EOLhyphen"/>way, cannot goe vppe with vs to heauen.<pb facs="tcp:19615:17"/>But
+our neighbour is heyre (as well as wee) of the kingdome which ſhall neuer
+fayle: and therefore wee muſt loue toge<g ref="char:EOLhyphen"/>ther one another hartilie.</p>
+               <p>For ſo much therefore as wée ſhall not continue alway
+in the world, but ſhall fayle alſo with the worlde: 
+<note place="margin">Wherfore we are commaun<g ref="char:EOLhyphen"/>ded to looue our
+neighbour.</note>we are com<g ref="char:EOLhyphen"/>maunded not to loue the worlde but our neighbour,
+becauſe (yea, being on earth) he is a part and portion of the heauenlie
+kingdome, although hee be among theſe lowe Elements, which makes him wor<g ref="char:EOLhyphen"/>thy
+to be loued of all ſuch as are deſirers of the heauenlie bliſſe:
+forſomuch as in the high Country, which is the kingdom of heauen, he ſhall
+be heyre with his bre<g ref="char:EOLhyphen"/>theren for euer. 
+<note place="margin">Why the loue of the world is
+for<g ref="char:EOLunhyphen"/>bid.</note>For this cauſe God doth forbid vs to looue this worlde:
+leaſt hee which ſo loueth, be ſeperated and made a ſtranger fro<g ref="char:cmbAbbrStroke">̄</g> the
+loue of God. That thing then ſhoulde not be ſtriuen for, which a man may
+not looue, becauſe a man bea<g ref="char:EOLhyphen"/>ring the name of Chriſt, muſt ſee that he
+haue alſo the ſelfe ſame or like manners in him, that Chriſt had. 
+<note place="margin">Who is a Chri<g ref="char:EOLhyphen"/>ſtian man.</note>For no man
+can worthily be called a Chriſtian man, ex<g ref="char:EOLhyphen"/>cept he agree with Chriſt in
+maners and<pb facs="tcp:19615:17"/>good liuing. As touching Chriſt, the pro<g ref="char:EOLhyphen"/>phet dooth
+write of himſelfe theſe words. 
+<note place="margin">Eſay, 42.1.2.</note>
+                  <hi>Beholde the childe
+whom I haue choſen, mine elect, my ſoule is well pleaſed in him: I will
+ſend my ſpirit vpon him. He ſhall not ſtriue, he ſhall not be an
+outcry<g ref="char:EOLhyphen"/>er, nor extend his voice in the ſtreete.</hi>
+               </p>
+               <p>Behold, Chriſt dooth not ſtriue or crye out: therefore if
+thou doo couet to be like him in maners, ſtriue not, leaſt thou ap<g ref="char:EOLhyphen"/>peare to
+doo nothing, but abuſe the name of Chriſt in the Church. For God
+com<g ref="char:EOLhyphen"/>maundeth them which follow him, ſay<g ref="char:EOLhyphen"/>ing. 
+<note place="margin">Math. 23.8.9.10.</note>
+                  <hi>Be not ye called
+Maiſters, for there is but one your Maiſter, who is in heauen. And call ye
+not father vpon the earth, for ye haue one father which is in heaue<g ref="char:cmbAbbrStroke">̄</g>. For yee
+are altogether bretheren:</hi> whom hee commaundeth to make common
+ſuppli<g ref="char:EOLhyphen"/>cation, and prayer after this manner. 
+<note place="margin">Math. 6.9.</note>
+                  <hi>O our father which art in
+heauen, hallowed be thy name. &amp;c.</hi>
+               </p>
+               <p>Hée then contendeth and laboureth in vaine to haue a
+father in earth, when hee profeſſeth, that both his Country and fa<g ref="char:EOLhyphen"/>ther is
+in heauen, which Countrey no man can poſſeſſe and enioy, but hee that 
+<pb facs="tcp:19615:18"/>refuſeth to ſet all his care on this world, as one paſſing
+not for it.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>The eyght abuſe. A poore man proude. Cap. 8.</head>
+               <p>TO beholde a poore man proude, may worthilie in this place
+ſtande for the eyght abuſe: becauſe although hee haue nothing, yet is he
+puffed vp with an high aſpiring minde, which thing, euen they that are riche
+men are forbidden to doo: 
+<note place="margin">Math. 23.12.</note>
+                  <hi>That they ſhoulde not
+be high minded.</hi> What thing is more fooliſh, then that he who through
+great pouerty &amp; extreame miſery is brought low, and as it were to the
+very ground, becauſe (that in reſpect of that conſideration) hee might
+behaue himſelfe lowlie: ſhould in this meane e<g ref="char:EOLhyphen"/>ſtate beare a proud hart
+againſt GOD? 
+<note place="margin">The Angels caſt down from heaue<g ref="char:cmbAbbrStroke">̄</g> for
+pride.</note>For this fault, euen they that were crea<g ref="char:EOLhyphen"/>ted in the high habitacle
+of heauen, were deiected and thrown downe from thence.</p>
+               <p>Wherefore then will he be proud and high minded heere on earth,
+as though he<pb facs="tcp:19615:18"/>were a man of exceeding great power: who (before al
+other men) ſhold cary and behaue himſelfe both humble and lowly?</p>
+               <p>But that the poore people ſhall not beare their pouertie
+heauenlie, with ſor<g ref="char:EOLhyphen"/>rowfulnes and ſadnes of heart: let them heare what they
+ſhall receiue of God, hee ſaith. 
+<note place="margin">Math. 5.3.</note>
+                  <hi>Bleſſed are the poore
+in ſpirit, for theirs is the kingdome of heauen.</hi> For the mercifull Iudge
+dooth handle all thinges ſo indifferently, that to them to whom he hath not
+giuen the riches of this worlde, he giueth the kingdom of heauen, that he may
+be a rich man in y<hi rend="sup">e</hi> glorious place, who on earthlie things hath not ſette
+his care or delight.</p>
+               <p>
+                  <note place="margin">A chriſtian ca<g ref="char:EOLhyphen"/>ueat for poore
+men.</note>Poore men therefore muſt take héed, leaſt while in
+pouertie &amp; neede they paſſe ouer the pleaſure and kingdome of thys
+world: they ſhould (through the lacke of wiſedome) leeſe alſo the
+kingdom of hea<g ref="char:EOLhyphen"/>uen. 
+<note place="margin">Marke this well, and it will returne to thy
+benefite.</note>For although by the order and diſ<g ref="char:EOLhyphen"/>penſation of God, they
+doo liue in earthly pouertie, yet they may endeuour to bee poore and meeke in
+ſpirit. For the king<g ref="char:EOLhyphen"/>dome of God is not promiſed to all poore men, without
+exception indifferentlie:<pb facs="tcp:19615:19"/>but to them onelie, in whome the humble
+and lowly meekenes of the hart, dooth ac<g ref="char:EOLhyphen"/>companie the want and lack of outwarde
+riches. 
+<note place="margin">Why the poore are called poore in
+ſpirit.</note>Becauſe an humble poore man, is called poore in ſpirit, who
+whe<g ref="char:cmbAbbrStroke">̄</g> he is out<g ref="char:EOLhyphen"/>wardlie poore &amp; needie, doth not inward<g ref="char:EOLhyphen"/>lie extoll
+himſelfe with a proude heart, for the lowlines of the mind ſhal do more to
+the attaining of the kingdome of hea<g ref="char:EOLhyphen"/>uen, then the temporall pouertie &amp;
+lacke a worldlie riches. For meeke and lowly men poſſeſſing riches, may
+be called poore in ſpirit: whereas thoſe that are proude, and yet haue
+nothing, without doubt are diſpoſſeſſed of the bleſſing, which is
+pro<g ref="char:EOLhyphen"/>miſed to the poore in ſpirit.</p>
+               <p>Of bothe theſe ſorts, the holy Scrip<g ref="char:EOLhyphen"/>ture ſpeaketh on this
+wiſe. 
+<note place="margin">Prouerb. 13.7.</note>
+                  <hi>Some make
+themſelues rich, although they haue no<g ref="char:EOLhyphen"/>thing, and ſome make themſelues
+poore, albeit they haue neuer ſo great riches.</hi>
+               </p>
+               <p>The rich man then béeing poore in ſpi<g ref="char:EOLhyphen"/>rit, is as a
+poore man notwithſtanding al his riches: and y<hi rend="sup">e</hi> poore man that is proud in
+hart, is as a rich man although hee be naked and poore. 
+<note place="margin">Hu<g ref="char:cmbAbbrStroke">̄</g>blenes of the minde is a glo<g ref="char:EOLhyphen"/>rious
+pouertie.</note>It followeth, that hum<g ref="char:EOLhyphen"/>blenes of the minde, is a noble and
+glo<g ref="char:EOLhyphen"/>rious<pb facs="tcp:19615:19"/>pouertie, and the proude ſtubborn<g ref="char:EOLhyphen"/>neſſe of the
+hart, a fooliſh kinde of riches. Therfore poore men muſt haue in mind what
+they are, and becauſe they cannot obtaine in worldly goods what they wold
+haue, let not their hearts be puffed vppe with pride, as though they had all
+that they cannot haue.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>The ninth abuſe. A wicked and an vniuſt King. Capit.
+9.</head>
+               <p>
+                  <note place="margin">The office of a King, and what his name
+im<g ref="char:EOLhyphen"/>porteth.</note>NOw come we to a capitall abuſe in<g ref="char:EOLhyphen"/>deede, namelie: an
+vniuſt or a wic<g ref="char:EOLhyphen"/>ked King or Prince: for a King muſt not be wicked or
+vniuſt, but correct and puniſh the wicked, and in his owne per<g ref="char:EOLhyphen"/>ſon defend
+and maintaine the dignitie of his name. For by the name of a King, is
+vnderſtood, that he may rule well all his ſubiects which are vnder him.</p>
+               <p>But how can he correct and rebuke o<g ref="char:EOLhyphen"/>ther, who doth not amend his
+own man<g ref="char:EOLhyphen"/>ners, if they be wicked? For in the righ<g ref="char:EOLhyphen"/>teouſnes and iuſtice of a
+King, is his ſeat<pb facs="tcp:19615:20"/>exalted: and in the fidelitie and trueth of a
+Prince, is his gouernment and rule e<g ref="char:EOLhyphen"/>ſtabliſhed and made ſtrong.</p>
+               <p>
+                  <note place="margin">Wherin appea<g ref="char:EOLhyphen"/>reth the righte<g ref="char:EOLhyphen"/>ouſneſſe
+of a King.</note>The righteouſnes &amp; iuſtice of a King, is to
+oppreſſe no ma<g ref="char:cmbAbbrStroke">̄</g> wrongfully by pow<g ref="char:EOLhyphen"/>er: to iudge and giue ſentence betweene
+man and man indifferentlie, without af<g ref="char:EOLhyphen"/>fection of any perſon: to defende
+Stran<g ref="char:EOLhyphen"/>gers, Orphane children, and widdowes: to ſee that robberie and theft
+raigne not in his Realme: to puniſhe ſtraightly a<g ref="char:EOLhyphen"/>dulterous and fornicating
+perſons: not to promote and exalt ſuch as are wicked: 
+<note place="margin">Eſay, 10.33.</note> to giue no liuing to
+ſuch as are vnchaſte perſons, and makers of vicious paſtimes, to
+deſtroy out of his land al that are wic<g ref="char:EOLhyphen"/>ked againſt God and their Parents:
+to ſuffer no murderer or man queller to liue, much leſſe ſuch as doo
+kill either fa<g ref="char:EOLhyphen"/>ther or mother: to defende the Church: to comfort the poore with
+déedes of charity: to take héede that his Officers vnder him be
+iuſt &amp; good men: to haue of his Coun<g ref="char:EOLhyphen"/>ſell, auncient, wiſe, and
+ſober men: to giue no eare to Sooth-ſayers, Witches, or Enchaunters: not to
+keepe anger in his ſtomack: to defend his Country iuſt<g ref="char:EOLhyphen"/>lie<pb facs="tcp:19615:20"/>and
+valiantlie againſt aduerſaries: to put his whole truſt and confidence for
+all things in God: not to be the prouder in hart, if things doo
+ſuccéed after his mind, and to beare the contrarie pacientlie: to
+keepe ſtedfaſtlie the Catholique or vni<g ref="char:EOLhyphen"/>uerſall Faith: not to ſuffer
+his children to doo wickedlie: to beſtow certain how<g ref="char:EOLhyphen"/>ers daily in prayer, not
+to eate and drink out of ſeaſon. 
+<note place="margin">Eſay. 30.19.</note>
+                  <hi>For woe be to that
+Lande,</hi> (as the Prophet ſaith) <hi>whoſe King is a child, and whoſe
+great men doe riſe vppe earlie to eate and drinke.</hi>
+               </p>
+               <p>
+                  <note place="margin">How happy the King and king<g ref="char:EOLhyphen"/>dome is, beeing
+thus gouerned.</note>The kéeping of theſe things, maketh a kingdom in
+this world to be proſperous, and afterward bringeth the king himſelf to a
+more excellent and royall kingdome. But hee that ruleth &amp; gouerneth not his
+Kingdome after this preſcript, dooth maintaine, ſuffer and beare many
+euills, inconueniences, and aduerſities in hys Realme, whereinto it falleth
+for the lack of good rule. 
+<note place="margin">The diſcommo<g ref="char:EOLhyphen"/>dities which happen to a
+Realme, where is an vnrighte<g ref="char:EOLhyphen"/>ous Prince.</note>Becauſe oftentimes
+héere<g ref="char:EOLhyphen"/>by, the peace of tranquilitie of the peo<g ref="char:EOLhyphen"/>ple is broken, and the
+Realme euill ſpo<g ref="char:EOLhyphen"/>ken of, the fruites of the grounde are di<g ref="char:EOLhyphen"/>miniſhed, and
+the ground made bare, and<pb facs="tcp:19615:21"/>finally, it cauſeth the people to be
+negli<g ref="char:EOLhyphen"/>gent in dooing their duetie.</p>
+               <p>Manie and ſundry ſores doo infecte a Realme, and hindereth
+the proſperous weale thereof. The death and loſſe of freendes and
+children, doo bring ſadneſſe and heauines vnto mens harts, for when
+enemies doo inuade the Countrey, they waſte &amp; impoueriſh the land on
+all ſides, they ſley vppe the Cattell great &amp; ſmall. Againe,
+troubleſome wether and great winds, doe hinder the groweth &amp; increaſe
+of the ground: it maketh alſo the Sea as troubled and vnable to doo
+ſeruice, yea, oftentimes blaſts and lightnings wither the Corne on the
+grounde, and bloſſoms on the trees. 
+<note place="margin">How daunge<g ref="char:EOLhyphen"/>rous the vn<g ref="char:EOLhyphen"/>righteouſnes of a
+King is.</note>But aboue all thinges, the vnrighteouſneſſe of a King,
+dooth make darke and clowdie the face of his whole Realme: being the cauſe
+ofte<g ref="char:cmbAbbrStroke">̄</g>times (tho<g ref="char:EOLhyphen"/>row his iniquitie &amp; wicked gouernment) that his Nephewes,
+yea, nor his children after him, doo inherit the Crown of their Father.</p>
+               <p>The Lord for the offence of <hi>Salomon,</hi> deuided the
+Kingdome of the houſe of Iſ<g ref="char:EOLhyphen"/>raell, out of the handes of his children. 
+<pb facs="tcp:19615:21"/>Behold what great goodnes commeth of a righteous and good Prince:
+there is none ſo blinde but may ſée it if they will. 
+<note place="margin">What goodnes enſueth by a righteous
+Prince.</note>Of him commeth the peace of the people, he is the defence of his
+Country, the ſafe<g ref="char:EOLhyphen"/>gard &amp; libertie of his people, the ſtrength of the
+whole Nation, the remedie of all ſorrowes, the ioy of men, the temperat<g ref="char:EOLhyphen"/>nes
+of the wether, the ſtilnes of the ſea, the fruitful increaſe of the
+earth, the help and comfort of the poore, the ſure heri<g ref="char:EOLhyphen"/>tage of his children,
+and finallie, to him<g ref="char:EOLhyphen"/>ſelfe it is a certaine argument and hope, of eternall
+felicitie to come.</p>
+               <p>
+                  <note place="margin">A notable leſ<g ref="char:EOLhyphen"/>ſon for Kings and
+Rulers.</note>But yet let euery King take this leſ<g ref="char:EOLhyphen"/>ſon with him, and marke
+it well: that as amo<g ref="char:cmbAbbrStroke">̄</g>g men he is ſet higheſt in his throne, ſo (if he
+miniſter not iuſtice) hee ſhall be déepeſt in paine. For in this
+life, as ma<g ref="char:EOLhyphen"/>ny tranſgreſſours &amp; offenders as hee had vnder him, ſo
+many in the time to come ſhall he haue aboue him, to his extreame ſorrow
+and paine remedileſſe.</p>
+            </div>
+            <div n="10" type="chapter">
+               <gap reason="missing" resp="#OXF" extent="2+ pages">
+                  <desc>〈2… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:19615:22"/>
+               <p>
+                  <hi>two with thee, that in the mouth of two or three, all words
+may be ratified. If hee will not heare them, tell the Church. And if hee will
+not heare the Church, take him as an Ethnike and a Pulicane.</hi>
+               </p>
+               <p>After ſuch an order muſt he be driuen out, which will not
+obey the Biſhop and teacher: and hee that is thus expulſed, ought not to
+come in companie either of Teacher or Biſhop. For it is written of the
+Prieſt in the Law: 
+<note place="margin">Leuit. 27.7.</note>
+                  <hi>Let him not take a wife
+that is a whore, or polluted, nor put from her husband: for ſuch an one is
+vn<g ref="char:EOLhyphen"/>holie vnto his God.</hi> 
+                  <note place="margin">He meaneth the ſpirituall mini<g ref="char:EOLhyphen"/>ſtration
+which they haue in puniſhing ſinne.</note>Therefore hee that dooth ioyne to
+him in companie ſuch a bo<g ref="char:EOLhyphen"/>die, being excommunicated by a faithfull
+Miniſter, without the conſent of him: breaketh the Law of holie
+Prieſt-hoode, which is an elect kind of Chriſtian men. After this faſhion
+muſt a Biſhop behaue himſelfe, ouer them to whom hee is a watchman: but
+what manner of man, he muſt be himſelfe, the Apoſtle S. <hi>Paule</hi>
+ſheweth in this wiſe. 
+<note place="margin">1. Tim 3 2 3.4.5.6. What a Biſhop ought to
+be.</note>
+                  <hi>A Biſhop muſt be blameleſſe, and husband of one wife,
+wat<g ref="char:EOLhyphen"/>ching, ſober, comelie apparrelled, a lo<g ref="char:EOLhyphen"/>uer and maintainer of
+hoſpitalitie, apt to<pb facs="tcp:19615:22"/>teach. Not giuen to ouermuch Wine, no
+ſtriker, not greedie of filthie lucre: but gentle, abhorring fighting,
+abhorring co<g ref="char:EOLhyphen"/>uetouſnes. One that ruleth well his owne houſe, hauing
+children in ſubiection with al grauitie &amp; cleannes of life. Not a young
+Scholler, leaſt he, being puffed vppe, fall into the ſnares of the deuill.
+He muſt alſo haue a good report of the<g ref="char:cmbAbbrStroke">̄</g> which are with out, leaſt he fall
+into the rebuke and ſnare of the deuill, that he may ſhew in worke, that
+thing which he teacheth in doctrine.</hi> Therefore let negligent Biſhoppes
+take heed, for in the time of vengeance, the Lorde complaineth by the mouth of
+hys Prophet, ſaying. 
+<note place="margin">Ezek. 34.2.</note>
+                  <hi>My Paſtours haue
+ground my people to powder, the ſheep<g ref="char:EOLhyphen"/>heards did not feed my flocke, but they
+did feede themſelues.</hi>
+               </p>
+               <p>
+                  <note place="margin">Gods flocke muſt be fedde in due
+ſeaſon.</note>But rather let them whom the Lorde hath ſet ouer his
+familie, procure to giue them meate in due ſeaſon: a meaſure of Wheate,
+that is to ſay, pure and true doctrine, that when the Lord commeth, they may
+deſerue to haue theſe comfor<g ref="char:EOLhyphen"/>table wordes. 
+<note place="margin">Math. 25.21.</note>
+                  <hi>My good and faithfull
+ſer<g ref="char:EOLhyphen"/>uaunt, becauſe thou haſt beene faithfull<pb facs="tcp:19615:23"/>ouer a fewe, I
+ſhall ſette thee ouer manie, enter into the ioy of the Lord.</hi>
+               </p>
+            </div>
+            <div n="11" type="chapter">
+               <head>The eleuenth abuſe. A people without diſcipline. Capit.
+11.</head>
+               <p>
+                  <note place="margin">People with<g ref="char:EOLhyphen"/>out obedience, runne hedlong to
+perdition.</note>COmming nowe to the eleuenth ble<g ref="char:EOLhyphen"/>miſh in this life, it is
+comprehended in theſe wordes: a people without diſci<g ref="char:EOLhyphen"/>pline: who when they
+doo not practiſe o<g ref="char:EOLhyphen"/>bedience in their liuing to good and godly doctrine, doe
+choke themſelues with the common ſnare of perdition. For they doe not
+eſcape the wrath of God, except they earneſtly folow thoſe things which
+they are taught. And therefore the Pſalmiſt ſaith to the people which
+will not receiue diſcipline: 
+<note place="margin">Pſalm. 2.12.</note>
+                  <hi>Apprehende and
+receiue dyſ<g ref="char:EOLhyphen"/>cipline, leaſt God be ſtirred to anger.</hi>
+               </p>
+               <p>
+                  <note place="margin">What diſcipline is.</note>Diſcipline is a
+manner of teaching, which leadeth men to the amendement of euill and naughtie
+manners: it is alſo a keeping and following of the rules and leſſons of
+our Elders, wherof S. <hi>Paule</hi> ſpeaketh, ſaying: <hi>Abide and
+continue in<pb facs="tcp:19615:23"/>diſcipline, God offereth himſelfe to you, as to his
+children. But if yee be out of diſ<g ref="char:EOLhyphen"/>cipline, whereof ye are made already
+par<g ref="char:EOLhyphen"/>takers, then are ye aduouterers, and not his children.</hi> They therefore
+which are gone from him, and be out of diſcipline, doo receiue no
+inheritaunce of the King<g ref="char:EOLhyphen"/>dom of heauen: but if children do receiue and beare
+the correction of their fathers diſcipline, let them not deſpayre or doubt,
+but they ſhall receiue in time to come, the inheritaunce of the Father.</p>
+               <p>Of this diſcipline <hi>Eſay</hi> ſpeaketh, ſay<g ref="char:EOLhyphen"/>ing: 
+<note place="margin">Eſay. 1.16.17.</note>
+                  <hi>Ceaſe from doing
+wickedly, &amp; learn to do well.</hi> And the like ſentence is found in the
+Pſalmiſt, who ſaith: 
+<note place="margin">Pſalm. 36.10.</note>
+                  <hi>Decline fro<g ref="char:cmbAbbrStroke">̄</g> euill
+and doe good.</hi> Wherfore that man is very miſerable and vnhappie, which
+throweth from him diſcipline: for hée is bolder then the Souldiers
+which crucifi<g ref="char:EOLhyphen"/>ed Chriſt, and did cut out his garment, for he dooth cut the
+diſcipline of Chriſtes Church. And likewiſe as the coate dooth couer all
+the bodie ſauing the heade, euen ſo is the whole Church clad and defen<g ref="char:EOLhyphen"/>ded
+with diſcipline, ſauing onelie Chriſt, who is the head of the Church. And
+as<pb facs="tcp:19615:24"/>that coat was whole without any ſeame, ſo is this
+diſcipline giuen to the Church whole and ſound.</p>
+               <p>
+                  <note place="margin">Example of diſ<g ref="char:EOLhyphen"/>cipline by Chri<g ref="char:EOLhyphen"/>ſtes own
+words</note>Of this diſcipline, the Lord when hee ſhould aſcende vppe to
+his Father, after he was riſen from death, ſpake to his diſ<g ref="char:EOLhyphen"/>ciples,
+ſaying: 
+<note place="margin">Luke. 24.49.</note>
+                  <hi>Abide ye heere ſtill
+in the Cittie of Ieruſalem, till ye be clad from a<g ref="char:EOLhyphen"/>boue with power.</hi> 
+                  <note place="margin">The diſcipline of the Church is the coate of
+Chriſt.</note>Then the diſcipline of the Church is the coate of Chriſt,
+and hée which is not within this diſcipline, is out of the bodie of
+Chriſt.</p>
+               <p>Let vs not therefore cut that coate, but let vs caſt lots who
+ſhal haue it, that is to ſay: let vs breake nothing of the co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>maundements
+of God, but euerie man whereunto he is called, therein let him conſtantlie
+abide with the Lord.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>The tvvelfth abuſe. A people without Law. Cap. 12.</head>
+               <p>THe laſt of this Catalogue of abuſes, is a people without
+Lawe, who while they deſpiſe the ſayings of God, and the<pb facs="tcp:19615:24"/>ordinaunces of his Lawes: doe runne thorow diuers waies of errours,
+into the ſnare of tranſgreſſion and breaking of the Lawes.</p>
+               <p>As concerning thoſe waies of errour, the Prophet (vnder the
+perſon of a tranſ<g ref="char:EOLhyphen"/>greſſor) doth lament and bewaile man<g ref="char:EOLhyphen"/>kind on this
+wiſe. 
+<note place="margin">Eſay. 54.13.</note>
+                  <hi>We haue erred</hi>
+(ſayth he) <hi>and gone aſtray like ſheepe, euerie one after his owne
+way.</hi>
+               </p>
+               <p>Of theſe waies it is ſpoken in the Booke of wiſedome, by
+the mouth of <hi>Sa<g ref="char:EOLhyphen"/>lomon,</hi> ſaying: 
+<note place="margin">Prou. 14.1</note>
+                  <hi>Many waies appeare good
+and ſtraite vnto men: but the laſt ende of their waies, bringeth them to
+death.</hi> And truelie there are many waies of perditi<g ref="char:EOLhyphen"/>on, when men doo not
+regard the Kinges high way, which is right &amp; ſtraight out, turning
+neither on the right hande nor on the left: the which way, our Lord Ie<g ref="char:EOLhyphen"/>ſu
+Chriſt (who is the end of the Lawe, to the iuſtification of all that doo
+beleeue) plainlie ſheweth vs, ſaying. 
+<note place="margin">Math. 11.29.</note>
+                  <hi>I am the way, the
+trueth, and the life, no man com<g ref="char:EOLhyphen"/>meth vnto the Father, but by mee.</hi> To
+which way hee calleth all men without reſpect, ſaying: <hi>Come vnto me al
+ye that<pb facs="tcp:19615:25"/>labour and are heauie laden, and I will re<g ref="char:EOLhyphen"/>freſh
+you.</hi> For there is no exception of perſons before GOD, with whom there is
+neither Iewe nor Greeke, man nor woman, bonde nor free: but Chriſt is all
+thinges in all, and all are one in Chriſt Ieſu.</p>
+               <p>
+                  <note place="margin">The people without Law, are without
+Chriſt.</note>For ſo much as Chriſt is the end of the Lawe, thoſe which
+are without the Lawe, are without Chriſt: then the people that be without the
+Lawe, are likewiſe without Chriſt.</p>
+               <p>It is a great abuſe, that in the time of the Goſpell, any
+people ſhould be with out the Lawe: for ſo much as the Apo<g ref="char:EOLhyphen"/>ſtles were
+commaunded to preach to all Nations, and the thunder-clappes of the Goſpell,
+were heard ouer all the parts of the earth, and the Gentles which ſought not
+after righteouſnes, haue receiued it. And finallie, conſidering that they
+which were farre off, were made nigh in the bloode of Chriſt, and they which
+ſome<g ref="char:EOLhyphen"/>time were not a people, are nowe made the people of GOD in Chriſt:
+beeing nowe a glad time, and the day of ſaluati<g ref="char:EOLhyphen"/>on, the time of comfort in
+the ſight of<pb facs="tcp:19615:25"/>the Higheſt.</p>
+               <p>And ſith that euery Nation hath a witneſſe of the
+reſurrection, yea, ſith the Lorde himſelfe beareth witneſſe
+there<g ref="char:EOLhyphen"/>vnto, ſaying: <hi>Behold, I am with you al<g ref="char:EOLhyphen"/>way to the end of the
+world.</hi> Therefore let not vs be without Chriſt in this tran<g ref="char:EOLhyphen"/>ſitorie
+life, leaſt Chriſt be without vs in the world to come.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
